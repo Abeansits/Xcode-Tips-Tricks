@@ -1,8 +1,6 @@
 # Xcode-Tips-Tricks
 Key commands and other tips for Xcode.
 
-VICTORIOUS TECH TALK - Productivity hacks for Xcode
-
 Xcode it not Eclipse but it still has a ton of features, much of these are hidden away. Which is a good thing but we are power users and therefore we could gain a lot by exploring! I remember when Xcode and IB was two different tools and this is a list of some of the most useful tricks I have gathered over the years. 
 
 Key commands:
